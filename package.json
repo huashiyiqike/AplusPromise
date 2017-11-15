@@ -1,0 +1,21 @@
+{
+  "name": "AplusPromise",
+  "version": "1.0.0",
+  "description": "AplusPromise is an extremely lightweight Promise/A+ implementation  and very useful for learning how to implement the Promise/A+ spec, using es6 syntax",
+  "main": "AplusPromise.js",
+  "scripts": {
+    "test": "node testrunner.js"
+  },
+
+  "keywords": [
+    "promise",
+    "promises",
+    "promise/A+",
+    "apluspromise"
+  ],
+  "author": "Allen Lyu",
+  "license": "MIT",
+  "devDependencies": {
+      "promises-aplus-tests": "~2"
+  }
+}
